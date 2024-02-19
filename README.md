@@ -1,1 +1,5 @@
 # Projeto-PodcastApp-Estudos
+Mini curso sobre Plano de testes na prática com o PodcastApp
+📕 Podcast App estudo de mini curso sobre plano de testes Esse projeto é referente ao mini curso de 8 aulas sobre como elaborar um plano de teste. 📌Caso se interesse pelas aulas ministradas pela Priscila Qualiters Club:https://www.youtube.com/watch?v=zow-_cTATH8&list=PL5ne1nP397vNAPmi7zAtQOw--8J0iguLO,
+
+O projeto consiste em elaborar um plano de teste de telas de um app (que no caso as telas sao retiradas do figma onde voce pode pegar varias telas para estudo:https://www.figma.com/file/KVDLVhx4AExPUc20itB20s/PodcastAppChallenge?type=design&node-id=8-5911&mode=design&t=MhLWFDCfuYHh0kqh-0) e a partir dessa telas foi criado as historias e as regras de negócio e as historias e caso de teste através da tecnica de desenvolvimento orientado ao comportamento(BDD)O plano de teste esta composto das estrategias necessarias para excutar os teste manuais nos prototipos das telas. Os prototipos,requisitos,historias estao em um documento que foi elaborado no miro e o plano no sheets e tambem um board no jira simulando uma sprint.
